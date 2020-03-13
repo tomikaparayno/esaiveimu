@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aephoovae.flicks2click.com/sitemap.xml
